@@ -24,7 +24,7 @@ public class Exercicio4
                 break;
         }
 
-        //Para fechar o Scanner, após seu uso
+        //Para fechar o Scanner depois de utilizar
         entrada.close();
     }
 }
